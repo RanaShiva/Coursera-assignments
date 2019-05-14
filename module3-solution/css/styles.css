@@ -83,6 +83,7 @@ section img{
   float:left;
   margin:20px;
   border:2px solid red;
+  width:80%;
 }
 section span{
   color:blue;
